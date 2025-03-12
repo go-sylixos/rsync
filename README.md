@@ -19,7 +19,7 @@ This project accepts contributions as time permits to merge them (best effort).
 
 ## For Sylixos
 
-[README1](README-sylixos.md)
+[README-sylixos](README-sylixos.md)
 
 ## How do I know this project won’t eat my data?
 
