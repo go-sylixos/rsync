@@ -33,6 +33,7 @@ dont_namespace = true
 
 - Donot set any thing like rsyncd = ":873" under [[listener]]
 - SSH authorized_keys only support ed25519.
+- When gokr-rsyncd.toml exist cmdline will not work anymore.
 
 ## How to build this for sylixos
 
