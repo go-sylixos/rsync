@@ -17,6 +17,10 @@ The following known improvements are not yet implemented:
 
 This project accepts contributions as time permits to merge them (best effort).
 
+## For Sylixos
+
+[README1](README-sylixos.md)
+
 ## How do I know this project won’t eat my data?
 
 This rsync implementation is very fresh. It was started in 2021 and doesn’t have

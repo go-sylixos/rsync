@@ -1,4 +1,4 @@
-//go:build !linux || nonamespacing
+//go:build (!linux && !sylixos) || nonamespacing
 
 package maincmd
 

@@ -14,3 +14,5 @@ require (
 	golang.org/x/sync v0.11.0
 	golang.org/x/sys v0.30.0
 )
+
+replace golang.org/x/sys v0.30.0 => github.com/go-sylixos/sys v0.28.1-sylixos.1
